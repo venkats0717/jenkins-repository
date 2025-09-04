@@ -1,2 +1,2 @@
-num = int(input("Enter a number: "))
+num = int(input("Enter a numbers: "))
 print(f"{num} is {'even' if num % 2 == 0 else 'odd'}")
